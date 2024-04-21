@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravanasurat
+- 👋 Hi, I’m @mahesh
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on New unsolvable data sets
